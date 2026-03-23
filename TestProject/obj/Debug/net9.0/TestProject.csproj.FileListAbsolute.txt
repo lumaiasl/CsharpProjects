@@ -1,0 +1,28 @@
+/home/lucas/Área de trabalho/Python Projects/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject
+/home/lucas/Área de trabalho/Python Projects/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject.deps.json
+/home/lucas/Área de trabalho/Python Projects/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject.runtimeconfig.json
+/home/lucas/Área de trabalho/Python Projects/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject.dll
+/home/lucas/Área de trabalho/Python Projects/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject.pdb
+/home/lucas/Área de trabalho/Python Projects/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Área de trabalho/Python Projects/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfoInputs.cache
+/home/lucas/Área de trabalho/Python Projects/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfo.cs
+/home/lucas/Área de trabalho/Python Projects/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.csproj.CoreCompileInputs.cache
+/home/lucas/Área de trabalho/Python Projects/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.dll
+/home/lucas/Área de trabalho/Python Projects/CsharpProjects/TestProject/obj/Debug/net9.0/refint/TestProject.dll
+/home/lucas/Área de trabalho/Python Projects/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.pdb
+/home/lucas/Área de trabalho/Python Projects/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.genruntimeconfig.cache
+/home/lucas/Área de trabalho/Python Projects/CsharpProjects/TestProject/obj/Debug/net9.0/ref/TestProject.dll
+/home/lucas/Área de trabalho/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject
+/home/lucas/Área de trabalho/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject.deps.json
+/home/lucas/Área de trabalho/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject.runtimeconfig.json
+/home/lucas/Área de trabalho/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject.dll
+/home/lucas/Área de trabalho/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject.pdb
+/home/lucas/Área de trabalho/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Área de trabalho/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfoInputs.cache
+/home/lucas/Área de trabalho/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfo.cs
+/home/lucas/Área de trabalho/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.csproj.CoreCompileInputs.cache
+/home/lucas/Área de trabalho/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.dll
+/home/lucas/Área de trabalho/CsharpProjects/TestProject/obj/Debug/net9.0/refint/TestProject.dll
+/home/lucas/Área de trabalho/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.pdb
+/home/lucas/Área de trabalho/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.genruntimeconfig.cache
+/home/lucas/Área de trabalho/CsharpProjects/TestProject/obj/Debug/net9.0/ref/TestProject.dll
