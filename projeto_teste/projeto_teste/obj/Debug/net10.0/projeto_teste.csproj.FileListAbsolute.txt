@@ -1,0 +1,14 @@
+C:\Users\renat\source\repos\projeto_teste\projeto_teste\bin\Debug\net10.0\projeto_teste.exe
+C:\Users\renat\source\repos\projeto_teste\projeto_teste\bin\Debug\net10.0\projeto_teste.deps.json
+C:\Users\renat\source\repos\projeto_teste\projeto_teste\bin\Debug\net10.0\projeto_teste.runtimeconfig.json
+C:\Users\renat\source\repos\projeto_teste\projeto_teste\bin\Debug\net10.0\projeto_teste.dll
+C:\Users\renat\source\repos\projeto_teste\projeto_teste\bin\Debug\net10.0\projeto_teste.pdb
+C:\Users\renat\source\repos\projeto_teste\projeto_teste\obj\Debug\net10.0\projeto_teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\source\repos\projeto_teste\projeto_teste\obj\Debug\net10.0\projeto_teste.AssemblyInfoInputs.cache
+C:\Users\renat\source\repos\projeto_teste\projeto_teste\obj\Debug\net10.0\projeto_teste.AssemblyInfo.cs
+C:\Users\renat\source\repos\projeto_teste\projeto_teste\obj\Debug\net10.0\projeto_teste.csproj.CoreCompileInputs.cache
+C:\Users\renat\source\repos\projeto_teste\projeto_teste\obj\Debug\net10.0\projeto_teste.dll
+C:\Users\renat\source\repos\projeto_teste\projeto_teste\obj\Debug\net10.0\refint\projeto_teste.dll
+C:\Users\renat\source\repos\projeto_teste\projeto_teste\obj\Debug\net10.0\projeto_teste.pdb
+C:\Users\renat\source\repos\projeto_teste\projeto_teste\obj\Debug\net10.0\projeto_teste.genruntimeconfig.cache
+C:\Users\renat\source\repos\projeto_teste\projeto_teste\obj\Debug\net10.0\ref\projeto_teste.dll

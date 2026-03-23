@@ -1,0 +1,14 @@
+C:\Users\renat\source\repos\projeto_teste3\projeto_teste3\bin\Debug\net10.0\projeto_teste3.exe
+C:\Users\renat\source\repos\projeto_teste3\projeto_teste3\bin\Debug\net10.0\projeto_teste3.deps.json
+C:\Users\renat\source\repos\projeto_teste3\projeto_teste3\bin\Debug\net10.0\projeto_teste3.runtimeconfig.json
+C:\Users\renat\source\repos\projeto_teste3\projeto_teste3\bin\Debug\net10.0\projeto_teste3.dll
+C:\Users\renat\source\repos\projeto_teste3\projeto_teste3\bin\Debug\net10.0\projeto_teste3.pdb
+C:\Users\renat\source\repos\projeto_teste3\projeto_teste3\obj\Debug\net10.0\projeto_teste3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\source\repos\projeto_teste3\projeto_teste3\obj\Debug\net10.0\projeto_teste3.AssemblyInfoInputs.cache
+C:\Users\renat\source\repos\projeto_teste3\projeto_teste3\obj\Debug\net10.0\projeto_teste3.AssemblyInfo.cs
+C:\Users\renat\source\repos\projeto_teste3\projeto_teste3\obj\Debug\net10.0\projeto_teste3.csproj.CoreCompileInputs.cache
+C:\Users\renat\source\repos\projeto_teste3\projeto_teste3\obj\Debug\net10.0\projeto_teste3.dll
+C:\Users\renat\source\repos\projeto_teste3\projeto_teste3\obj\Debug\net10.0\refint\projeto_teste3.dll
+C:\Users\renat\source\repos\projeto_teste3\projeto_teste3\obj\Debug\net10.0\projeto_teste3.pdb
+C:\Users\renat\source\repos\projeto_teste3\projeto_teste3\obj\Debug\net10.0\projeto_teste3.genruntimeconfig.cache
+C:\Users\renat\source\repos\projeto_teste3\projeto_teste3\obj\Debug\net10.0\ref\projeto_teste3.dll

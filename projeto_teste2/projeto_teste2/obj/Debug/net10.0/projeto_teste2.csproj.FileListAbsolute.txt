@@ -1,0 +1,14 @@
+C:\Users\renat\source\repos\projeto_teste2\projeto_teste2\obj\Debug\net10.0\projeto_teste2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\source\repos\projeto_teste2\projeto_teste2\obj\Debug\net10.0\projeto_teste2.AssemblyInfoInputs.cache
+C:\Users\renat\source\repos\projeto_teste2\projeto_teste2\obj\Debug\net10.0\projeto_teste2.AssemblyInfo.cs
+C:\Users\renat\source\repos\projeto_teste2\projeto_teste2\obj\Debug\net10.0\projeto_teste2.csproj.CoreCompileInputs.cache
+C:\Users\renat\source\repos\projeto_teste2\projeto_teste2\bin\Debug\net10.0\projeto_teste2.exe
+C:\Users\renat\source\repos\projeto_teste2\projeto_teste2\bin\Debug\net10.0\projeto_teste2.deps.json
+C:\Users\renat\source\repos\projeto_teste2\projeto_teste2\bin\Debug\net10.0\projeto_teste2.runtimeconfig.json
+C:\Users\renat\source\repos\projeto_teste2\projeto_teste2\bin\Debug\net10.0\projeto_teste2.dll
+C:\Users\renat\source\repos\projeto_teste2\projeto_teste2\bin\Debug\net10.0\projeto_teste2.pdb
+C:\Users\renat\source\repos\projeto_teste2\projeto_teste2\obj\Debug\net10.0\projeto_teste2.dll
+C:\Users\renat\source\repos\projeto_teste2\projeto_teste2\obj\Debug\net10.0\refint\projeto_teste2.dll
+C:\Users\renat\source\repos\projeto_teste2\projeto_teste2\obj\Debug\net10.0\projeto_teste2.pdb
+C:\Users\renat\source\repos\projeto_teste2\projeto_teste2\obj\Debug\net10.0\projeto_teste2.genruntimeconfig.cache
+C:\Users\renat\source\repos\projeto_teste2\projeto_teste2\obj\Debug\net10.0\ref\projeto_teste2.dll
